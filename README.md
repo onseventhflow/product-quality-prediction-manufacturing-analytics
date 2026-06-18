@@ -39,7 +39,8 @@ The goal of this project is to help manufacturing teams:
 
 ## Dashboard Preview
 
-![Manufacturing Dashboard](Manufacturing_Dashboard.png)
+
+![Manufacturing Dashboard](assets/Manufacturing_Dashboard.png)
 
 ---
 
